@@ -7,6 +7,6 @@ def farewell():
 def chat():
     print("How are you")
 
-
-
+def apple():
+    print("fruit")
 
